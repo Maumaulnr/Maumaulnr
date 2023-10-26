@@ -39,3 +39,5 @@ Here are some ideas to get you started:
 
 Thanks for stopping by! ✨
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maumaulnr&theme=dark"/>
+
